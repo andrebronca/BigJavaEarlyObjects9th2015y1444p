@@ -1,4 +1,4 @@
-package com.arb.chapter01;
+package com.arb.chapter01.section_05;
 
 //fazer de conta que nunca nem vi
 public class HelloPrinter {
